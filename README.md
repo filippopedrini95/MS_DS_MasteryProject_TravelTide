@@ -73,7 +73,8 @@ This notebook performs multiple tasks:
 The final dataset combines:
 - User-level features
 - RFM segmentation
-- Booking & Travel Behaviour segmentation\
+- Booking & Travel Behaviour segmentation
+
 **Output:** users_FinalTab.csv
 
 
