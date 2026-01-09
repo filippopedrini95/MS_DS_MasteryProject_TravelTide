@@ -16,7 +16,7 @@ The original database is not included in this repository due to its size; instea
 The analysis was developed in Databricks and organized into multiple notebooks, each covering a specific step of the data pipeline.
 At the beginning of each notebook, a dataset is loaded (stored in this repository as a CSV file), and in several cases a processed version of the data is saved for use in the next steps.
 
-Step 0 – Data Retrieval and Initial Filtering
+Step 0 – Data Retrieval and Initial Filtering\
 Notebook: 0 - TravelTide Data Retrieval.ipynb
 Input: TraveTideDB_link.txt
 This notebook connects to the original TravelTide database using the link stored in the .txt file.
